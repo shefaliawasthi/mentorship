@@ -69,39 +69,39 @@ Templates for PB:
 
 
 LEARN GIT BRANCHING
-git commit
-git branch bugFix
-git checkout bugFix
+- git commit
+- git branch bugFix
+- git checkout bugFix
 
-if you want to create a new branch AND check it out at the same time, you can simply type git checkout -b [yourbranchname]
+- if you want to create a new branch AND check it out at the same time, you can simply type git checkout -b [yourbranchname]
 
-git merge bugFix
-git rebase main
+- git merge bugFix
+- git rebase main
 
-Relative commits are powerful, but we will introduce two simple ones here:
-Moving upwards one commit at a time with ^
-Moving upwards a number of times with ~<num>
+- Relative commits are powerful, but we will introduce two simple ones here:
+- Moving upwards one commit at a time with ^
+- Moving upwards a number of times with ~<num>
 
-git checkout main^ = main~1
-git checkout main^^ = main~2
-git checkout HEAD~4
+- git checkout main^ = main~1
+- git checkout main^^ = main~2
+- git checkout HEAD~4
 
-Branch forcing with git branch -f main HEAD~3
+- Branch forcing with git branch -f main HEAD~3
 
-git reset HEAD~1
-git revert HEAD
-git cherry-pick C2 C4
+- git reset HEAD~1
+- git revert HEAD
+- git cherry-pick C2 C4
 
-Git commit --amend to make the slight modification
-git rebase -i HEAD~2
-git rebase caption main
+- Git commit --amend to make the slight modification
+- git rebase -i HEAD~2
+- git rebase caption main
 
-git tag v2 C3
-The command git describe main would output: v1_2_gC2
-Whereas git describe side would output: v2_1_gC4
+- git tag v2 C3
+- The command git describe main would output: v1_2_gC2
+- Whereas git describe side would output: v2_1_gC4
 
-git describe <ref>
-<tag>_<numCommits>_g<hash> where tag is the closest ancestor tag in history, numCommits is how many commits away that tag is, and <hash> is the hash of the commit being described.
+- git describe <ref>
+- <tag>_<numCommits>_g<hash> where tag is the closest ancestor tag in history, numCommits is how many commits away that tag is, and <hash> is the hash of the commit being described.
 
-travel up commit tree: git checkout main~2
-travel up+sideways to second parent: git checkout main^2
+- travel up commit tree: git checkout main~2
+- travel up+sideways to second parent: git checkout main^2
