@@ -1,4 +1,4 @@
-1. Social media site tht monitors tone/key words
+1. Social Media Site that Prioritizes Mental Health
 - uses pscychology concepts
 - uses NLP to scan text and tokenization to explore the connotation of stem words
   
