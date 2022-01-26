@@ -1,11 +1,11 @@
-Table of Contents
-Background
-User Story
-Goals
-Architecture
-Why do we need a database? Why PostgreSQL?
-Build and Test
-Link to Actual Dashboard
-Postgres Credentials
-How To ...
-Next Steps
+- Table of Contents
+- Background
+- User Story
+- Goals
+- Architecture
+- Why do we need a database? Why PostgreSQL?
+- Build and Test
+- Link to Actual Dashboard
+- Postgres Credentials
+- How To ...
+- Next Steps
