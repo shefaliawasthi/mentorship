@@ -17,12 +17,12 @@ NOTE: important to figure out how the students will be matched. it will either b
 - OPTION: ask members to sign up with their email accounts. after groups have been made, either create a chatroom with the members using the emails or give members the option to share their contact information with the other members
 - OPTION: shuffle groups button. provide multiple options so they can be different with a push of w button
 
-## Code chatbot to answer FAQs:
+## Code chatbot to answer FAQs [POSSIBLY]:
 - Set list of questions and answers
 - Use NLP to pick up on keywords
 - Prompt user with questions if keywords are not detected
 
-## Feedback:
+## Feedback [POSSIBLY]:
 - EITHER add a form where people manually input their experience working with their matched group in paragraph form and NLP is used to extract the connotation of their message
 - OR create a game were they can rate their experience on a scale from 1-5 (easier for data crunching)
 - EITHER WAY: people running the website will have to improve the matched pairs (unless we figure out how to self-improve WHICH could just mean not pairing those two people up again). 
