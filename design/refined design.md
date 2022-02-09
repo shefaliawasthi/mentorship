@@ -1,5 +1,5 @@
 # Refined Design
-## Create a simple, convenient, and easy-to-use website that pairs people together in groups/teams:
+## Website Overview
 - Members input their schedule and availability:
   - Display monthly calendar with times and dates
   - Option to sync Google Calendar
@@ -37,7 +37,7 @@
 
 NOTE: important to figure out how the students will be matched. it will either be based on 1 question, multiple questions, randomizer or a point system. Perhaps we can toggle the different ways people can be matched. 
 
-## Create login page [POSSIBLY]:
+## Create login page [POSSIBLY]
 - Create “classes” so set lists of members that can be saved and referred to later
 - Create “saved teams” so specific pairings can be saved 
 - Students can sync their calendars with Google Calendar
