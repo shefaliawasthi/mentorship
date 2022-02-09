@@ -13,12 +13,14 @@
   - OR input answers (free response)
     - use NLP to tokenize and gather overall connotation of the message
     - use a point-value system for connotations (number line where negative emotions = <0 and positive emotions = >0)
-  - OR create random matching algorithmn
+  - OR create random matching algorithm
     - no questions asked, answers do not matter
+    - use randomizer function: assign students a number, then pair them like drawing names out of a hat without replacement
     - extra feature!
 - Organizer mode:
   - Can see all matched pairs and can view everyones schedules
   - Sets number of people in each pair
+  - Can toggle which algorithm is used for matching
   - Can rematch (move students around after match)
 - Member mode:
   - Input answers, wait to be matched
@@ -35,9 +37,7 @@
 - Matching algorithm!
 - Show matched pairs
 
-NOTE: important to figure out how the students will be matched. it will either be based on 1 question, multiple questions, randomizer or a point system. Perhaps we can toggle the different ways people can be matched. 
-
-## Create login page [POSSIBLY]
+## Create Login Page [POSSIBLY]
 - Create “classes” so set lists of members that can be saved and referred to later
 - Create “saved teams” so specific pairings can be saved 
 - Students can sync their calendars with Google Calendar
