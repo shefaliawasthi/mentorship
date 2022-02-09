@@ -5,6 +5,7 @@
   - Option to sync Google Calendar
 - Members answer set questions. Answers used for matching
   - Common events: Birthday parties, Office parties, School Teamwork
+  - 3 layers of pages: Log-in page, question page, matched page
   - Set ~10-15 questions for each event (not too long, but enough info)
   - EITHER multiple-choice (set answers)
     - give a point for every answer (A=1, B=2, C=3, D=4)
@@ -18,7 +19,9 @@
     - use randomizer function: assign students a number, then pair them like drawing names out of a hat without replacement
     - extra feature!
 - Organizer mode:
+  - 3 layers of pages: Log-in page, setting page, matched page
   - Can see all matched pairs and can view everyones schedules
+  - Create unique code to allow members to join specific teams
   - Sets number of people in each pair
   - Can toggle which algorithm is used for matching
   - Can rematch (move students around after match)
