@@ -41,6 +41,6 @@
 - Create “classes” so set lists of members that can be saved and referred to later
 - Create “saved teams” so specific pairings can be saved 
 - Students can sync their calendars with Google Calendar
-- OPTION: members can put in their preferences of who they want to work with
-- OPTION: ask members to sign up with their email accounts. after groups have been made, either create a chatroom with the members using the emails or give members the option to share their contact information with the other members
-- OPTION: shuffle groups button. provide multiple options so they can be different with a push of w button
+- OPTION: Members can put in their preferences of who they want to work with
+- OPTION: Ask members to sign up with their email accounts. after groups have been made, either create a chatroom with the members using the emails or give members the option to share their contact information with the other members
+- OPTION: Shuffle groups button. Provide multiple options so they can be different with a push of w button
