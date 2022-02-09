@@ -28,7 +28,7 @@
 
 ## Coding Components
 - Main language: Python on GitHub
-- Coding Ui: ReactJS
+- Coding UI: ReactJS
 - Backend: Python
 
 ## Basic Event
